@@ -7,3 +7,11 @@
 .klaro .cm-list-label::before {
     display: none !important;
 }
+
+.klaro .cm-purposes {
+    overflow: visible !important;
+}
+
+.klaro .cm-list-label {
+    padding-left: 60px !important;
+}
