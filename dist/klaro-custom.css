@@ -3,3 +3,7 @@
     --green2: #1080bb; !important;
     --light1: #e8f4fc; !important;
 }
+
+.klaro .cm-list-label::before {
+    display: none !important;
+}
